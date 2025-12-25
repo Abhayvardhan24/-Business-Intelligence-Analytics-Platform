@@ -2,8 +2,7 @@ Data Sources
 •	Sales Table: Order ID, Order Date, Product Category, Region, Revenue, Profit, Quantity, Customer ID
 •	Customer Table: Customer ID, Customer Name, Segment, Location, Acquisition Date
 
-3. Key KPIs
-KPI	Value
+Key KPIs
 Total Revenue	$X
 Total Profit	$Y
 Profit Margin %	Z%
